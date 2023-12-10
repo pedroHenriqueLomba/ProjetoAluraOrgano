@@ -1,0 +1,13 @@
+.footer-class{
+    background-color: #6278F7;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.footer-class div {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    color: #FFF;
+}
